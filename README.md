@@ -4,4 +4,4 @@
  lorem
  
  ## Licencja
- lorem ipsum
+ lorem ipsum dupa dupa
